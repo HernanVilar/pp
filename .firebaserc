@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "parcialrepartidor": {
+      "hosting": {
+        "Vilar.Hernan": [
+          "parcialrepartidor"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "parcialrepartidor"
+  }
+}
